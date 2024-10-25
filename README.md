@@ -19,4 +19,4 @@ For this project, we will be using the following libraries:
 
   ### Analysis Performed
 
-- Please find the notebook [here]
+- Please find the notebook [here](https://github.com/nadirquamer/House_Sales_Analysis/blob/main/House%20Sales%20Analysis.ipynb)
